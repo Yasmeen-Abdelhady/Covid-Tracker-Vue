@@ -1,0 +1,6 @@
+{
+    "jobs":[{"name":"Ali" , "id":1 , "grade":"3th"},
+            {"name":"Yasser" , "id":2 , "grade":"4th"},
+            {"name":"Samy" , "id":3 , "grade":"5th"}
+    ]
+}
